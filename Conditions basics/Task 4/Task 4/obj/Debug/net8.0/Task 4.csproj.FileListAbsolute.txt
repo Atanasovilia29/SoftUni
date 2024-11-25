@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\bin\Debug\net8.0\Task 4.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\bin\Debug\net8.0\Task 4.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\bin\Debug\net8.0\Task 4.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\bin\Debug\net8.0\Task 4.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\bin\Debug\net8.0\Task 4.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\Task 4.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\Task 4.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\Task 4.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\refint\Task 4.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\Task 4.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\Task 4.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task 4\Task 4\obj\Debug\net8.0\ref\Task 4.dll

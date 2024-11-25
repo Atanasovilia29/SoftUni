@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\bin\Debug\net8.0\Task3.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\bin\Debug\net8.0\Task3.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\Task3.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Conditions basics\Task3\Task3\obj\Debug\net8.0\ref\Task3.dll
