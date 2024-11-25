@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 6\\Task6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F884FCB1-01A3-4418-83F1-617A7736D217}|Task6\\Task6.csproj|c:\\users\\ia572\\onedrive - canterbury christ church university\\softunit c# basics lab\\exercise conditional statments\\task 6\\task6\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F884FCB1-01A3-4418-83F1-617A7736D217}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 6\\Task6\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "Task6\\Program.cs",
+              "ToolTip": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 6\\Task6\\Task6\\Program.cs*",
+              "RelativeToolTip": "Task6\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:51:05.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
