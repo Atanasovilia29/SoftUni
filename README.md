@@ -1,2 +1,2 @@
-# Softuni Basics exercises and lab work
+# Softuni Basics exercises and Lab work
 
