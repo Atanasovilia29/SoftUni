@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\bin\Debug\net8.0\Task 10.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\bin\Debug\net8.0\Task 10.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\bin\Debug\net8.0\Task 10.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\bin\Debug\net8.0\Task 10.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\bin\Debug\net8.0\Task 10.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\Task 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\Task 10.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\Task 10.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\Task 10.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\Task 10.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\refint\Task 10.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\Task 10.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\Task 10.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Harder Conditianal statments\Task 10\Task 10\obj\Debug\net8.0\ref\Task 10.dll

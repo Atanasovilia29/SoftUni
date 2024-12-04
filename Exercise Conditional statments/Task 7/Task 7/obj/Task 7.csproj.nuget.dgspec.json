@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj": {}
+    "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\SoftUni\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj": {
+    "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\SoftUni\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj",
+        "projectUniqueName": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\SoftUni\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj",
         "projectName": "Task 7",
-        "projectPath": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj",
+        "projectPath": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\SoftUni\\Exercise Conditional statments\\Task 7\\Task 7\\Task 7.csproj",
         "packagesPath": "C:\\Users\\atana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Exercise Conditional statments\\Task 7\\Task 7\\obj\\",
+        "outputPath": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\SoftUni\\Exercise Conditional statments\\Task 7\\Task 7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atana\\AppData\\Roaming\\NuGet\\NuGet.Config",

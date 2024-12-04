@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Harder Conditianal statments\\Task 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5523EDD-7115-4515-B18A-5F1CB590CF84}|Task 11\\Task 11.csproj|c:\\users\\atana\\onedrive - canterbury christ church university\\softunit c# basics lab\\harder conditianal statments\\task 11\\task 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5523EDD-7115-4515-B18A-5F1CB590CF84}|Task 11\\Task 11.csproj|solutionrelative:task 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Harder Conditianal statments\\Task 11\\Task 11\\Program.cs",
+              "RelativeDocumentMoniker": "Task 11\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\Harder Conditianal statments\\Task 11\\Task 11\\Program.cs",
+              "RelativeToolTip": "Task 11\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:09:30.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
