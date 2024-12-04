@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\bin\Debug\net8.0\P04. Fishing Boat.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\bin\Debug\net8.0\P04. Fishing Boat.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\bin\Debug\net8.0\P04. Fishing Boat.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\bin\Debug\net8.0\P04. Fishing Boat.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\bin\Debug\net8.0\P04. Fishing Boat.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\P04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\P04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\P04. Fishing Boat.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\P04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\P04. Fishing Boat.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\refint\P04. Fishing Boat.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\P04. Fishing Boat.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\P04. Fishing Boat.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\Fishing Boat\obj\Debug\net8.0\ref\P04. Fishing Boat.dll

@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\bin\Debug\net8.0\P01. Cinema.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\bin\Debug\net8.0\P01. Cinema.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\bin\Debug\net8.0\P01. Cinema.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\bin\Debug\net8.0\P01. Cinema.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\bin\Debug\net8.0\P01. Cinema.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\P01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\P01. Cinema.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\P01. Cinema.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\P01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\P01. Cinema.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\refint\P01. Cinema.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\P01. Cinema.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\P01. Cinema.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P01. Cinema\obj\Debug\net8.0\ref\P01. Cinema.dll

@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\bin\Debug\net8.0\P07. Hotel Room.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\bin\Debug\net8.0\P07. Hotel Room.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\bin\Debug\net8.0\P07. Hotel Room.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\bin\Debug\net8.0\P07. Hotel Room.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\bin\Debug\net8.0\P07. Hotel Room.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\P07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\P07. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\P07. Hotel Room.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\P07. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\P07. Hotel Room.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\refint\P07. Hotel Room.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\P07. Hotel Room.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\P07. Hotel Room.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P07. Hotel Room\obj\Debug\net8.0\ref\P07. Hotel Room.dll

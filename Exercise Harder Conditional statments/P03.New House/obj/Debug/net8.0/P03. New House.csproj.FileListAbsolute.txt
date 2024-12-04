@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\bin\Debug\net8.0\P03. New House.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\bin\Debug\net8.0\P03. New House.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\bin\Debug\net8.0\P03. New House.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\bin\Debug\net8.0\P03. New House.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\bin\Debug\net8.0\P03. New House.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\P03. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\P03. New House.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\P03. New House.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\P03. New House.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\P03. New House.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\refint\P03. New House.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\P03. New House.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\P03. New House.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise Harder Conditional statments\P01. Cinema\P03. New House\obj\Debug\net8.0\ref\P03. New House.dll
