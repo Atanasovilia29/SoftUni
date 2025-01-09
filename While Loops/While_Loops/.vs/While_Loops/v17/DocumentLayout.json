@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\While Loops\\While_Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B14491-4C70-4D16-B911-2D2D597ECDA0}|P08\\P08..csproj|c:\\users\\ia572\\onedrive - canterbury christ church university\\softunit c# basics lab\\while loops\\while_loops\\p08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B14491-4C70-4D16-B911-2D2D597ECDA0}|P08\\P08..csproj|solutionrelative:p08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413ADF01-E922-4D24-B255-94ABF74F2696}|P07\\P07..csproj|c:\\users\\ia572\\onedrive - canterbury christ church university\\softunit c# basics lab\\while loops\\while_loops\\p07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413ADF01-E922-4D24-B255-94ABF74F2696}|P07\\P07..csproj|solutionrelative:p07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4404D076-C02A-4245-80FC-A9C53D3BD56E}|P06.Max Number\\P06.Max Number.csproj|c:\\users\\ia572\\onedrive - canterbury christ church university\\softunit c# basics lab\\while loops\\while_loops\\p06.max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4404D076-C02A-4245-80FC-A9C53D3BD56E}|P06.Max Number\\P06.Max Number.csproj|solutionrelative:p06.max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\While Loops\\While_Loops\\P08\\Program.cs",
+              "RelativeDocumentMoniker": "P08\\Program.cs",
+              "ToolTip": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\While Loops\\While_Loops\\P08\\Program.cs",
+              "RelativeToolTip": "P08\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:47:15.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\While Loops\\While_Loops\\P07\\Program.cs",
+              "RelativeDocumentMoniker": "P07\\Program.cs",
+              "ToolTip": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\While Loops\\While_Loops\\P07\\Program.cs",
+              "RelativeToolTip": "P07\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:45:04.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\While Loops\\While_Loops\\P06.Max Number\\Program.cs",
+              "RelativeDocumentMoniker": "P06.Max Number\\Program.cs",
+              "ToolTip": "C:\\Users\\Ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\While Loops\\While_Loops\\P06.Max Number\\Program.cs",
+              "RelativeToolTip": "P06.Max Number\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA9wB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:55:49.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

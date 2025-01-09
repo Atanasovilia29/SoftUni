@@ -1,0 +1,14 @@
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\bin\Debug\net8.0\P07..exe
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\bin\Debug\net8.0\P07..deps.json
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\bin\Debug\net8.0\P07..runtimeconfig.json
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\bin\Debug\net8.0\P07..dll
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\bin\Debug\net8.0\P07..pdb
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\P07..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\P07..AssemblyInfoInputs.cache
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\P07..AssemblyInfo.cs
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\P07..csproj.CoreCompileInputs.cache
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\P07..dll
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\refint\P07..dll
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\P07..pdb
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\P07..genruntimeconfig.cache
+C:\Users\Ia572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P07\obj\Debug\net8.0\ref\P07..dll

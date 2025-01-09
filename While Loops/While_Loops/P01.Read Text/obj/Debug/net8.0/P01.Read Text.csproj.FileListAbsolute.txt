@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\bin\Debug\net8.0\P01.Read Text.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\bin\Debug\net8.0\P01.Read Text.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\bin\Debug\net8.0\P01.Read Text.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\bin\Debug\net8.0\P01.Read Text.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\bin\Debug\net8.0\P01.Read Text.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\P01.Read Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\P01.Read Text.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\P01.Read Text.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\P01.Read Text.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\P01.Read Text.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\refint\P01.Read Text.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\P01.Read Text.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\P01.Read Text.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\While Loops\While_Loops\P01.Read Text\obj\Debug\net8.0\ref\P01.Read Text.dll
