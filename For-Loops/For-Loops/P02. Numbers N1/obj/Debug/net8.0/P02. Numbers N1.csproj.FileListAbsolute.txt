@@ -1,0 +1,14 @@
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\bin\Debug\net8.0\P02. Numbers N1.exe
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\bin\Debug\net8.0\P02. Numbers N1.deps.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\bin\Debug\net8.0\P02. Numbers N1.runtimeconfig.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\bin\Debug\net8.0\P02. Numbers N1.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\bin\Debug\net8.0\P02. Numbers N1.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\P02. Numbers N1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\P02. Numbers N1.AssemblyInfoInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\P02. Numbers N1.AssemblyInfo.cs
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\P02. Numbers N1.csproj.CoreCompileInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\P02. Numbers N1.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\refint\P02. Numbers N1.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\P02. Numbers N1.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\P02. Numbers N1.genruntimeconfig.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P02. Numbers N1\obj\Debug\net8.0\ref\P02. Numbers N1.dll

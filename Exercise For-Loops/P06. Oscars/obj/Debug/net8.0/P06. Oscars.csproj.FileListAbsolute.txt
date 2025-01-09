@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\bin\Debug\net8.0\P06. Oscars.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\bin\Debug\net8.0\P06. Oscars.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\bin\Debug\net8.0\P06. Oscars.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\bin\Debug\net8.0\P06. Oscars.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\bin\Debug\net8.0\P06. Oscars.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\P06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\P06. Oscars.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\P06. Oscars.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\P06. Oscars.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\P06. Oscars.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\refint\P06. Oscars.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\P06. Oscars.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\P06. Oscars.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P06. Oscars\obj\Debug\net8.0\ref\P06. Oscars.dll

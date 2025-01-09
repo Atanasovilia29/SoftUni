@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\For-Loops\\For-Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{104F68B2-56EA-4D3C-BBFC-243DF0B40F13}|P07. Sum Numbers\\P07. Sum Numbers.csproj|c:\\users\\ia572\\onedrive - canterbury christ church university\\softunit c# basics lab\\for-loops\\for-loops\\p07. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104F68B2-56EA-4D3C-BBFC-243DF0B40F13}|P07. Sum Numbers\\P07. Sum Numbers.csproj|solutionrelative:p07. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3C1CEC-AB8B-4DB7-B7BA-8D9F37B7C60D}|P06. Vowels Sum\\P06. Vowels Sum.csproj|c:\\users\\ia572\\onedrive - canterbury christ church university\\softunit c# basics lab\\for-loops\\for-loops\\p06. vowels sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3C1CEC-AB8B-4DB7-B7BA-8D9F37B7C60D}|P06. Vowels Sum\\P06. Vowels Sum.csproj|solutionrelative:p06. vowels sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\For-Loops\\For-Loops\\P06. Vowels Sum\\Program.cs",
+              "RelativeDocumentMoniker": "P06. Vowels Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\For-Loops\\For-Loops\\P06. Vowels Sum\\Program.cs",
+              "RelativeToolTip": "P06. Vowels Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:08:32.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\For-Loops\\For-Loops\\P07. Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "P07. Sum Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\ia572\\OneDrive - Canterbury Christ Church University\\SoftUnit C# Basics LAB\\For-Loops\\For-Loops\\P07. Sum Numbers\\Program.cs",
+              "RelativeToolTip": "P07. Sum Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:10:13.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

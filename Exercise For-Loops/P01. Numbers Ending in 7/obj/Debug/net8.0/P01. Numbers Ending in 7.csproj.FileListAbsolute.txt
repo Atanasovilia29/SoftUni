@@ -1,0 +1,14 @@
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\bin\Debug\net8.0\P01. Numbers Ending in 7.exe
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\bin\Debug\net8.0\P01. Numbers Ending in 7.deps.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\bin\Debug\net8.0\P01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\bin\Debug\net8.0\P01. Numbers Ending in 7.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\bin\Debug\net8.0\P01. Numbers Ending in 7.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\P01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\P01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\P01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\P01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\P01. Numbers Ending in 7.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\refint\P01. Numbers Ending in 7.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\P01. Numbers Ending in 7.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\P01. Numbers Ending in 7.genruntimeconfig.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P01. Numbers Ending in 7\obj\Debug\net8.0\ref\P01. Numbers Ending in 7.dll

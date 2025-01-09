@@ -1,0 +1,14 @@
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\bin\Debug\net8.0\For-Loops.exe
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\bin\Debug\net8.0\For-Loops.deps.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\bin\Debug\net8.0\For-Loops.runtimeconfig.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\bin\Debug\net8.0\For-Loops.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\bin\Debug\net8.0\For-Loops.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\For-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\For-Loops.AssemblyInfoInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\For-Loops.AssemblyInfo.cs
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\For-Loops.csproj.CoreCompileInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\For-Loops.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\refint\For-Loops.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\For-Loops.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\For-Loops.genruntimeconfig.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\For-Loops\obj\Debug\net8.0\ref\For-Loops.dll

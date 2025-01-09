@@ -1,0 +1,14 @@
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\bin\Debug\net8.0\P04. Even Powers of 2.exe
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\bin\Debug\net8.0\P04. Even Powers of 2.deps.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\bin\Debug\net8.0\P04. Even Powers of 2.runtimeconfig.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\bin\Debug\net8.0\P04. Even Powers of 2.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\bin\Debug\net8.0\P04. Even Powers of 2.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\P04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\P04. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\P04. Even Powers of 2.AssemblyInfo.cs
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\P04. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\P04. Even Powers of 2.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\refint\P04. Even Powers of 2.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\P04. Even Powers of 2.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\P04. Even Powers of 2.genruntimeconfig.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P04. Even Powers of 2\obj\Debug\net8.0\ref\P04. Even Powers of 2.dll

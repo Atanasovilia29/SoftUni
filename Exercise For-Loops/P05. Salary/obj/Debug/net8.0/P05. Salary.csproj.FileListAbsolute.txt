@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\bin\Debug\net8.0\P05. Salary.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\bin\Debug\net8.0\P05. Salary.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\bin\Debug\net8.0\P05. Salary.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\bin\Debug\net8.0\P05. Salary.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\bin\Debug\net8.0\P05. Salary.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\P05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\P05. Salary.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\P05. Salary.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\P05. Salary.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\P05. Salary.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\refint\P05. Salary.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\P05. Salary.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\P05. Salary.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P05. Salary\obj\Debug\net8.0\ref\P05. Salary.dll

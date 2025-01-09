@@ -1,0 +1,14 @@
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\P06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\P06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\P06. Vowels Sum.AssemblyInfo.cs
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\P06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\bin\Debug\net8.0\P06. Vowels Sum.exe
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\bin\Debug\net8.0\P06. Vowels Sum.deps.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\bin\Debug\net8.0\P06. Vowels Sum.runtimeconfig.json
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\bin\Debug\net8.0\P06. Vowels Sum.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\bin\Debug\net8.0\P06. Vowels Sum.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\P06. Vowels Sum.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\refint\P06. Vowels Sum.dll
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\P06. Vowels Sum.pdb
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\P06. Vowels Sum.genruntimeconfig.cache
+C:\Users\IA572\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P06. Vowels Sum\obj\Debug\net8.0\ref\P06. Vowels Sum.dll

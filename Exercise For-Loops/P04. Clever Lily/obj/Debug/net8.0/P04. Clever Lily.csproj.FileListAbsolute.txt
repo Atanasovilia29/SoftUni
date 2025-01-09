@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\bin\Debug\net8.0\P04. Clever Lily.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\bin\Debug\net8.0\P04. Clever Lily.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\bin\Debug\net8.0\P04. Clever Lily.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\bin\Debug\net8.0\P04. Clever Lily.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\bin\Debug\net8.0\P04. Clever Lily.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\P04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\P04. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\P04. Clever Lily.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\P04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\P04. Clever Lily.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\refint\P04. Clever Lily.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\P04. Clever Lily.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\P04. Clever Lily.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\Exercise For-Loops\P04. Clever Lily\obj\Debug\net8.0\ref\P04. Clever Lily.dll

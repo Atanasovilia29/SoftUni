@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\P08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\P08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\P08. Number sequence.AssemblyInfo.cs
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\P08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\bin\Debug\net8.0\P08. Number sequence.exe
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\bin\Debug\net8.0\P08. Number sequence.deps.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\bin\Debug\net8.0\P08. Number sequence.runtimeconfig.json
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\bin\Debug\net8.0\P08. Number sequence.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\bin\Debug\net8.0\P08. Number sequence.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\P08. Number sequence.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\refint\P08. Number sequence.dll
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\P08. Number sequence.pdb
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\P08. Number sequence.genruntimeconfig.cache
+C:\Users\atana\OneDrive - Canterbury Christ Church University\SoftUnit C# Basics LAB\For-Loops\For-Loops\P08. Number sequence\obj\Debug\net8.0\ref\P08. Number sequence.dll
